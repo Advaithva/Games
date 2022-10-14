@@ -24,3 +24,10 @@ body {
   background-position:center;
   
 }
+
+input {
+  margin:0 5cm;
+  background-color:#abcdef;
+  height:0.5cm;
+  width:1cm;
+}
