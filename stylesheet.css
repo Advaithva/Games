@@ -2,6 +2,7 @@ iframe {
   padding:1cm;
   border:2px solid black;
   margin:1cm;
+  text-align:center;
 }
 
 .main {
@@ -18,4 +19,9 @@ body {
 
 .heading {
   font-size:100px;
+  text-align:center;
+  background-image:url(https://cdn.dribbble.com/users/1117770/screenshots/2626626/welcome.gif);
+  background-size:cover;
+  background-position:center;
+  
 }
