@@ -31,3 +31,11 @@ input {
   height:35px;
   width:73px;
 }
+
+input:hover {
+  background-color:#eee;
+}
+
+input:active {
+   background-color:#aaa;
+}
