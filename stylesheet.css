@@ -3,3 +3,15 @@ iframe {
   border:2px solid black;
   margin:1cm;
 }
+
+.main {
+  padding:1cm;
+  margin:1cm;
+  border:2px solid black;
+}
+
+body {
+  margin:0;
+  padding:0;
+  
+}
