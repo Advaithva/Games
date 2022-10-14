@@ -1,12 +1,12 @@
 iframe {
   padding:1cm;
   border:2px solid black;
-  margin:1cm;
+  margin:0.5cm;
   text-align:center;
 }
 
 .main {
-  margin:1cm;
+  margin:0.5cm;
   border:2px solid black;
 }
 
