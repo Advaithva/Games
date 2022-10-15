@@ -11,5 +11,5 @@ function C() {
 }
 
 function D() {
-  alert("")
+  alert("Click on the green flag. This is an endless game. Use the curson to move the big fish. The big fish follows the curson. Move the cursor and feed the small fishes to the big fish. Each small fish costs a point")
 }
