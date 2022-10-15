@@ -7,7 +7,7 @@ function B() {
 }
 
 function C() {
-  alert("")
+  alert("This is a multiplayer game. Click on the green flag. Use right arrow key and left arrow key to control the bottom stick and 'c' and 'z' keys to control the top stick. Avoid touching the red line. The first to get 10 points wins.")
 }
 
 function D() {
