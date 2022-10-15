@@ -3,7 +3,7 @@ function A() {
 }
 
 function B() {
-  alert("Follow the instructions correctly to go out. Play maze to get money. In maze reach the finishing point without touching the red lines within 20 seconds. Spend money by watching a movie or eating in a restaurant.")
+  alert("Follow the instructions correctly. Play maze to get money. In maze reach the finishing point without touching the red lines within 20 seconds. Spend money by watching a movie or eating in a restaurant.")
 }
 
 function C() {
