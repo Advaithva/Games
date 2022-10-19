@@ -52,4 +52,6 @@ nav a {
   padding-bottom:1cm;
   padding-right:1cm;
   color:#fff;
+    background-color:#000;
+  backdrop-filter: blur(13px);
 }
