@@ -9,6 +9,8 @@ iframe {
   margin:0.5cm;
   border:2px solid black;
   background-image:linear-gradient(red, orange, yellow, green, blue, violet);
+  background-blend-mode: lighten;
+	background-color: rgba(250,250,250,0.62)
 }
 
 body {
