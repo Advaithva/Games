@@ -49,10 +49,11 @@ nav {
 }
 
 nav a {
-  padding-top:1cm;
-  padding-bottom:1cm;
-  padding-right:1cm;
-  color:#fff;
-  width:25%;
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
   
 }
