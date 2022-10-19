@@ -41,4 +41,5 @@ input:active {
 }
 nav {
   background-color:#000;
+  backdrop-filter: blur(13px);
 }
