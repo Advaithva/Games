@@ -43,6 +43,7 @@ nav {
   background-color:#000;
   backdrop-filter: blur(13px);
   font-size:20px;
+  width:100%;
  
   
 }
@@ -52,6 +53,6 @@ nav a {
   padding-bottom:1cm;
   padding-right:1cm;
   color:#fff;
-    background-color:#000;
-  backdrop-filter: blur(13px);
+  width:25%;
+
 }
