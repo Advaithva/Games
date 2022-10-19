@@ -42,4 +42,6 @@ input:active {
 nav {
   background-color:#000;
   backdrop-filter: blur(13px);
+  font-size:20px;
+  color:#fff;
 }
