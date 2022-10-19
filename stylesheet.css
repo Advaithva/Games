@@ -43,5 +43,13 @@ nav {
   background-color:#000;
   backdrop-filter: blur(13px);
   font-size:20px;
+ 
+  
+}
+
+nav a {
+  padding-top:0.5cm;
+  padding-bottom:0.5cm;
+  padding:right:0.5cm;
   color:#fff;
 }
