@@ -16,5 +16,5 @@ function D() {
 
 
 function E() {
-  alert("Click on the green flag. Choose Rock, Paper or Scissors. The first to score 5 points are the winners");
+  alert("Click on the green flag. Choose Rock, Paper or Scissors. The first to score 5 points are the winners");  
 }
